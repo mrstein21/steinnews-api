@@ -13,6 +13,7 @@
  chrome or safari etc you can disable https safety. 
 
  you import html_articles.sql import the database on your XAMPP 
+ you can also set database environtment at .env
 
 
 
